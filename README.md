@@ -3,6 +3,6 @@
 ## Features
 
 1. Spotify Web API
-2. Material-ui/icons
-3. Axios for easy http requests
-4. BEM methodology
+2. Google, Facbook, Apple Authentication
+3. OTP verification for mobilenumber login
+4. Material-ui/icons
